@@ -1,4 +1,4 @@
-#Indice de mi página GitHub
+#Indice de json schemas disponibles
 
 - [schema.json](/schema.json)
 - [Pruebas.json](/Pruebas.json)
